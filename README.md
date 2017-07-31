@@ -1,0 +1,2 @@
+# GDPR
+GDPR EN - NL in HTML
